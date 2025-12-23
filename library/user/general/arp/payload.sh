@@ -1,7 +1,7 @@
 #!/bin/bash
 # Title:                ARP Table
 # Description:          Lists the ARP table and logs the results
-# Author:               eflubacher
+# Author:               tototo31
 # Version:              1.0
 
 # Options

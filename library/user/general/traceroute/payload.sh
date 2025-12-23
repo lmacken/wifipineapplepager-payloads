@@ -1,7 +1,7 @@
 #!/bin/bash
 # Title:                Traceroute
 # Description:          Performs a traceroute to a target IP address or hostname and logs the results
-# Author:               eflubacher
+# Author:               tototo31
 # Version:              1.0
 
 # Options

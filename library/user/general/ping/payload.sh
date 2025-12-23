@@ -1,7 +1,7 @@
 #!/bin/bash
 # Title:                Ping
 # Description:          Pings a target IP address or hostname and logs the results
-# Author:               eflubacher
+# Author:               tototo31
 # Version:              1.0
 
 # Options

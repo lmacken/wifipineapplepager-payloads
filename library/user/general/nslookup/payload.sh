@@ -1,7 +1,7 @@
 #!/bin/bash
 # Title:                DNS Lookup (nslookup)
 # Description:          Performs DNS lookups using nslookup and logs the results
-# Author:               eflubacher
+# Author:               tototo31
 # Version:              1.0
 
 # Options
