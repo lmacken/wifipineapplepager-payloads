@@ -2,7 +2,7 @@
 # Title: DOOM Deathmatch
 # Description: Connect to DOOM server for multiplayer deathmatch!
 # Author: @lmacken
-# Version: 1.0
+# Version: 2.0
 # Category: Games
 
 PAYLOAD_DIR="/root/payloads/user/games/doom-deathmatch"
