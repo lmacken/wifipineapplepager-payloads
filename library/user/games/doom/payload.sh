@@ -2,7 +2,7 @@
 # Title: DOOM
 # Description: The classic 1993 FPS on your WiFi Pineapple Pager!
 # Author: @lmacken
-# Version: 2.0
+# Version: 3.0
 # Category: Games
 
 PAYLOAD_DIR="/root/payloads/user/games/doom"
@@ -44,8 +44,7 @@ WAIT_FOR_INPUT >/dev/null 2>&1
 /etc/init.d/pineapplepager stop 2>/dev/null
 /etc/init.d/pineapd stop 2>/dev/null
 
-# Free cached memory
-echo 3 >/proc/sys/vm/drop_caches 2>/dev/null
+sleep 1
 
 # Run DOOM
 "$PAYLOAD_DIR/doomgeneric" -iwad "$WAD_FILE" >/tmp/doom.log 2>&1
